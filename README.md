@@ -1,1 +1,1 @@
-Мой бэкенд: https://my-pindie-backend.nomoredomainswork.ru
+Мой бэкенд: https://github.com/alyonka225/pindie-backend.git
